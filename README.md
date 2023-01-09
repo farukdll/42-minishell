@@ -12,18 +12,22 @@ The objective of this project is for you to create a simple shell.
   - what is redirecrion?
   
   - what is redline library?
-  (You may get an error while adding the Redline library to the project.) (detailed research)
+  (You may get an error while adding the Redline library to the project)-(detailed research).
   
-  - write parser for commands to use. (create the structure for the parser.)
+  - write parser for commands to use. (create the structure for the parser).
   
-  - what is environmental variable? (search well.)
+  - what is environmental variable? (search well).
   
-  - hat is the execute function(execve)?  (Transfer the incoming commands to execve.)
+  - hat is the execute function(execve)?  (Transfer the incoming commands to execve).
   
-  - what is redirection?  (call dup functions for redirects.)
+  - what is redirection?  (call dup functions for redirects).
   
-  -  
-  -
-  -
+  - signal and set commands like ctrl + c.
+  
+  - create a nice history with add_history in the redline library.
+  
+  - what is fork? (research the way it returns as it will be used a lot to execute).
   
 ```
+
+I wish good work
