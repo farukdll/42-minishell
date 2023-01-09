@@ -7,7 +7,7 @@ The objective of this project is for you to create a simple shell.
 ```
   - what is bash script?
   
-  - what is pipele?
+  - what is pipele? (what is the pipeline function)
   
   - what is redirecrion?
   
@@ -23,7 +23,8 @@ The objective of this project is for you to create a simple shell.
   (Transfer the incoming commands to execve.)
   
   - what is redirection?  (call dup functions for redirects.)
-  - 
+  
+  -  
   -
   -
   
